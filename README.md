@@ -25,7 +25,7 @@ This console-based application enables the user to manage the customer-related b
 
 ### Application Functionality:
 -- Creates a database 'cusdatadb' if not already present.   
--- Option 1, Gathers all the customer transaction-related data, validates the data by matching with the regular expression and inserts      it into the database.   
+-- Option 1, Gathers all the customer transaction-related data, validates the data by matching with the regular expression and inserts it into the database.   
 -- Option 2, Retrieve the transaction based on the criteria selected by the end-user.             
 -- Option 3, Retrieves all the records in the database.        
 -- Option 4, Updates the record based on the criteria selected by the end-user.     
