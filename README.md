@@ -1,5 +1,5 @@
 # python-with-sqlite3-for-crm
-A CRM tool to manage the customer transactions with the help of the sqlite3 database
+A CRM tool to manage the customer transactions with the help of the sqlite3 database.   
 
 ### Overview:
 This console-based application enables the user to manage the customer-related business transactions with a company. The User can create, update and delete the transaction. This application can be also be converted to an executable, by using the installer.
